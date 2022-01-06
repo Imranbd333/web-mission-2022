@@ -108,18 +108,32 @@ body{
 .skill-develop .image-part img{
     height: 100%;
     width: 100%;
+    border-radius: 25px;
 }
 .skill-develop-content{
     padding-left: 80px;
 } 
 .skill-develop-content h1{
-    padding-left: 0%
-    ;margin-top: 30px;
+    padding-left: 0%;
+    margin-top: 30px;
 }   
 /* skill dev sec css end */
 .project{
     padding: 0%;
     padding-right: 80px;
+}
+/* hardwork */
+.hardwork{
+
+width: 129% !important;
+
+height: 450px !important;
+}
+.hardwork img{
+    
+height: 100% !important;
+    
+width: 100% !important;
 }
 /* project dev sec ebd */
 .footer{
