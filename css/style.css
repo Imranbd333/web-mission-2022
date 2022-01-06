@@ -49,6 +49,8 @@ border-radius: 10px;
 background-color: #FF5959;
     
 font-size: 20px;
+    
+letter-spacing: 0.5px;
     }
     
 .image-part{
@@ -141,9 +143,7 @@ width: 100%;
 
 padding-left: 80px;
 } 
-.skill-develop-content h1{
-padding-left: 0%;
-}   
+.skill-develop-content h1{padding-left: 0%;margin-top: 30px;}   
 /* skill dev sec css end */
 .project{padding: 0%;padding-right: 80px;}
 /* project dev sec ebd */
