@@ -68,14 +68,11 @@ text-align: center;
 }
 .my-mission h1{
 
-font-size: 55px;
+    font-size: 55px;
 
-color: #13103A;
+    color: #13103A;
 
-text-transform: uppercase;
-}
-.mission-content{
-
+    text-transform: uppercase;
 }
 .misiion-illustrators{
     background-color: #EDF5F6;
@@ -112,3 +109,25 @@ width: 40%;
 .goals-illustrators img{
     width: 40%;
 }
+/* skill develop css */
+.skill-develop{
+
+width: 80%;
+
+margin: auto;
+}
+.skill-develop .image-part{
+    
+height: 395px;
+    
+width: 100%;
+}
+.skill-develop .image-part img{
+    
+height: 100%;
+    
+width: 100%;
+}
+.skill-develop-content{
+
+}    
