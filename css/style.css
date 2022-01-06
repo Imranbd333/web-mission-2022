@@ -115,6 +115,8 @@ width: 40%;
 width: 80%;
 
 margin: auto;
+
+margin-bottom: 50px;
 }
 .skill-develop .image-part{
     
@@ -130,4 +132,10 @@ width: 100%;
 }
 .skill-develop-content{
 
-}    
+padding-left: 80px;
+} 
+.skill-develop-content h1{
+padding-left: 0%;
+}   
+/* skill dev sec css end */
+.project{padding: 0%;padding-right: 80px;}
