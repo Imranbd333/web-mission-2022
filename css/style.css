@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0%;
+}
+.focus-on{
+
+width: 80%;
+
+margin: auto;
+}
+.flexiable-content{
+    display: flex;
+    margin-bottom: 50px;
+}
+.flexiable-content h1{
+    font-size: 55px;
+    color: #333333;
+    margin: 0;
+    padding-left: 15px;
+}
+.flexiable-content p{
+
+color: #999;
+
+font-size: 18px;
+}
+.focus-on-content{
+    
+width: 100%;
+    
+margin-top: 100px;
+}
+.span-color{
+    color: rgb(211, 144, 21) !important;
+}
+.button-variables{
+    
+text-decoration: none;
+    
+padding: 10px 30px;
+    
+text-transform: capitalize;
+    
+color: #fff;
+    
+border-radius: 10px;
+    
+background-color: #FF5959;
+    
+font-size: 20px;
+    }
+    
+.image-part{
+    width: 100%;
+    text-align: center;
+}
+#focus-border{
+    border-left: 5px solid #ff5959;
+    border-image-slice: 1;
+}
+.my-mission{
+
+width: 80%;
+
+margin: auto;
+
+text-align: center;
+}
+.my-mission h1{
+
+font-size: 55px;
+
+color: #13103A;
+
+text-transform: uppercase;
+}
+.mission-content{
+
+}
+.misiion-illustrators{
+    background-color: #EDF5F6;
+    padding: 22px;
+    margin: 22px;
+    border-radius: 20px;}
+.misiion-illustrators img{
+    
+width: 40%;
+}
+.misiion-illustrators, .goals-illustrators h2{
+    color: #13103A;
+}
+.vision-illustrators{
+    background-color: #FFEEEE;
+    padding: 22px;
+    margin: 22px;
+    border-radius: 20px;
+}
+
+.vision-illustrators img{
+    width: 40%;
+}
+.vision-illustrators h2{
+    margin-top: 0;
+}
+
+.goals-illustrators{
+    background-color: #FFF4D6;
+    padding: 22px;
+    margin: 22px;
+    border-radius: 20px;
+}
+.goals-illustrators img{
+    width: 40%;
+}
